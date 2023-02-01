@@ -41,13 +41,14 @@ body {
 }
 
 #previous-operation {
-  color: #777;
+  color: white;
   padding: 0.2em;
   overflow-wrap: break-word;
   min-height: 1.6em;
 }
 
 #current-operation {
+  color: white;
   min-height: 1.6em;
   font-size: 3em;
   font-weight: 700;
